@@ -17,8 +17,8 @@ Overall, I am a dedicated, detail-oriented software engineer with a passion for 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Dot Net Core | React Js | Angular | Azure | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | 
+- 💻 &nbsp; Dot Net Core | React Js | Angular | Azure 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Python
 - 🛢 &nbsp; MS-SQL | MySQL
 - 🔧 &nbsp; Git | Gitlab | Bitbucket
 
